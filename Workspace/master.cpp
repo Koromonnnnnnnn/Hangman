@@ -1,6 +1,6 @@
 #include <iostream>
 #include <string>
-#include "storage.h" // Assuming this header contains functions like one(), two(), etc.
+#include "storage.h" 
 #include <cctype>
 using namespace std;
 
